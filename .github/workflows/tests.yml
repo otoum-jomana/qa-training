@@ -11,3 +11,12 @@ jobs:
           node-version: '18'
       - run: npm install
       - run: npm test
+      - name: Run Tests
+      run: npm test
+
+    - name: Upload Test Report
+      uses: actions/upload-artifact@v4
+      if: always() # لضمان رفع التقرير حتى لو فشلت الاختبارات
+      with:
+        name: test-results-report
+        path: junit.xml
