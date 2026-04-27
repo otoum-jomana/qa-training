@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="5" failures="0" errors="0" time="4.478">
+  <testsuite name="Utility Functions Tests" errors="0" failures="0" skipped="0" timestamp="2026-04-27T05:47:33" time="4.395" tests="5">
+    <testcase classname="Utility Functions Tests يجب أن يجمع رقمين بشكل صحيح" name="Utility Functions Tests يجب أن يجمع رقمين بشكل صحيح" time="0.006">
+    </testcase>
+    <testcase classname="Utility Functions Tests يجب أن يطرح رقمين بشكل صحيح" name="Utility Functions Tests يجب أن يطرح رقمين بشكل صحيح" time="0.002">
+    </testcase>
+    <testcase classname="Utility Functions Tests يجب أن يحول النص إلى حروف كبيرة" name="Utility Functions Tests يجب أن يحول النص إلى حروف كبيرة" time="0.001">
+    </testcase>
+    <testcase classname="Utility Functions Tests يجب أن يتحقق إذا كانت القائمة فارغة" name="Utility Functions Tests يجب أن يتحقق إذا كانت القائمة فارغة" time="0.001">
+    </testcase>
+    <testcase classname="Utility Functions Tests يجب أن يضرب رقمين بشكل صحيح" name="Utility Functions Tests يجب أن يضرب رقمين بشكل صحيح" time="0.002">
+    </testcase>
+  </testsuite>
+</testsuites>
